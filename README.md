@@ -11,7 +11,7 @@
 - webpack
 
 <hr>
-![](static/img/page1.png)
+![](./static/img/page1.png)
 
 
 ##安装：
