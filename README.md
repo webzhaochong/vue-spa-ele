@@ -12,10 +12,7 @@
 
 <hr>
 ![](./static/img/page1.png)
-![](./static/img/page2.png)
-![](./static/img/page3.png)
-![](./static/img/page4.png)
-![](./static/img/page5.png)
+
 
 ##安装：
 1、安装node：http://nodejs.cn/download/ 
