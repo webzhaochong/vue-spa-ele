@@ -12,7 +12,7 @@
 
 <hr>
 
-![](http://github.com/yourname/your-repository/raw/master/static/img/page1.png)
+![](http://github.com/webzhaochong/vue-spa-ele/master/static/img/page1.png)
 
 
 ##安装：
