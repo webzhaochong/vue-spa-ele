@@ -11,11 +11,11 @@
 - webpack
 
 <hr>
-![](./static/page1.png)
-![](./static/page2.png)
-![](./static/page3.png)
-![](./static/page4.png)
-![](./static/page5.png)
+![](./static/img/page1.png)
+![](./static/img/page2.png)
+![](./static/img/page3.png)
+![](./static/img/page4.png)
+![](./static/img/page5.png)
 
 ##安装：
 1、安装node：http://nodejs.cn/download/ 
@@ -44,6 +44,6 @@
 直接运行我写好的配置文件就可以运行代码：
 > $ node prod.server.js
 
-打开浏览器输入localhost:9000看效果。
+打开浏览器输入localhost:8080看效果。
 
 
