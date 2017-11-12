@@ -11,15 +11,15 @@
 - webpack
 
 <hr>
-##首页
+
 ![](https://github.com/webzhaochong/vue-spa-ele/raw/master/static/img/page1.png)
-##折扣公告页
+
 ![](https://github.com/webzhaochong/vue-spa-ele/raw/master/static/img/page2.png)
-##购物车
+
 ![](https://github.com/webzhaochong/vue-spa-ele/raw/master/static/img/page3.png)
-##评论页
+
 ![](https://github.com/webzhaochong/vue-spa-ele/raw/master/static/img/page4.png)
-##商家页面
+
 ![](https://github.com/webzhaochong/vue-spa-ele/raw/master/static/img/page5.png)
 
 
